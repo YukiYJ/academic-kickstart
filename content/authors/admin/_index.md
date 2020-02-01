@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include data mining and machine learning.
 
 interests:
+- Text Mining
+- Deep Learning
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
 education:
   courses:
