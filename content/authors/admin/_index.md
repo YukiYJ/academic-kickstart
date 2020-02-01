@@ -27,8 +27,8 @@ experience:
 
 education:
   courses:
-  - course: Bachelor of Science in [Computing](https://www.comp.polyu.edu.hk)
-    institution: [The Hong Kong Polytechnic University](https://www.polyu.edu.hk)
+  - course: Bachelor of Science in Computing
+    institution: The Hong Kong Polytechnic University
     year: 2016-2020
 
 # Social/Academic Networking
@@ -59,9 +59,9 @@ email: "yuki.j.yu@connect.polyu.hk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Hello! I'm a final-year undergraduate at [Department of Computing](https://www.comp.polyu.edu.hk) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk). My research interests include Text Mining and Machine Learning. Now I am conducting my capstone project, "Performance Evaluation using Artificial Intelligence", supervised by [Dr. Yan Liu](https://www.comp.polyu.edu.hk/en-us/staffs/detail/1295).
+Hello! I'm a final-year undergraduate at Department of Computing of The Hong Kong Polytechnic University. My research interests include Text Mining and Machine Learning. Now I am conducting my capstone project, "Performance Evaluation using Artificial Intelligence", supervised by Dr. Yan Liu.
