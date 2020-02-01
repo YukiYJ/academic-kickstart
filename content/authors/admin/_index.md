@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include data mining and machine learning.
 
-experience:
+interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
@@ -64,4 +64,4 @@ email: "yuki.j.yu@connect.polyu.hk"
 # - Visitors
 ---
 
-Hello! I'm a final-year undergraduate at Department of Computing of The Hong Kong Polytechnic University. My research interests include Text Mining and Machine Learning. Now I am conducting my capstone project, "Performance Evaluation using Artificial Intelligence", supervised by Dr. Yan Liu.
+Hello! I'm a final-year undergraduate learning at The Hong Kong Polytechnic University, majoring in Computing and minoring in Applied Mathematics. My research interests include Text Mining and Machine Learning. Now I am conducting my capstone project, "Performance Evaluation using Artificial Intelligence", supervised by Dr. Yan Liu.
