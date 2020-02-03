@@ -43,4 +43,16 @@ date_format = "Jan 2006"
   * Actualized a two-mode network model that showed the relevance of major issues and stakeholders, using the degree centrality for the assessment, to prioritize the stakeholder-associated issues and explore the criticalness of those issues in the project duration from the perspectives of stakeholders
   """
   
+[[experience]]
+  title = "Back-end Development Intern"
+  company = "Rylink Science and Technology Co., Ltd"
+  company_url = "https://support.hoo.com/hc/en-us/articles/360030950371-About-Us"
+  location = "Shenzhen"
+  date_start = "2018-06-04"
+  date_end = "2018-08-10"
+  description = """ 
+  * Developed part of the admin site of the software application product Hoo Wallet, a digital assets trading platform, supporting both Android and iOS on a team basis
+  * Created an attendance checking website for the company’s personnel with another colleague
+  * Got familiar with the server-side development procedures and cultivated my creative problem-solving, teamwork and multitasking skills
+  """
 +++
