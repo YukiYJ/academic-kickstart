@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   date_start = "2019-05-31"
   date_end = "2019-07-31"
   description = """
-  - Developed part of the admin site of the software application product Hoo Wallet, a digital assets trading platform, supporting both Android and iOS on a team basis \n
-  - Developed a puzzle game application based on the generated images and tested the application in both Windows and Android systems
+  * Developed part of the admin site of the software application product Hoo Wallet, a digital assets trading platform, supporting both Android and iOS on a team basis
+  * Developed a puzzle game application based on the generated images and tested the application in both Windows and Android systems
   """
 
 [[experience]]
@@ -37,8 +37,10 @@ date_format = "Jan 2006"
   date_start = "2019-03-31"
   date_end = "2019-05-31"
   description = """ 
-  - Implemented part of a Topic Over Time model for the detection of major issues, including: 1) preprocessed text data and extracted features in large quantities of unstructured text documents using NLTK and scikit-learn; 2) developed a metric to measure the coherence and typicality of the generated topics using a score called topic coherence calculated for each topic through a formula \n
-  - Actualized a two-mode network model that showed the relevance of major issues and stakeholders, using the degree centrality for the assessment, to prioritize the stakeholder-associated issues and explore the criticalness of those issues in the project duration from the perspectives of stakeholders
+  * Implemented part of a Topic Over Time model for the detection of major issues, including: 
+  ** preprocessed text data and extracted features in large quantities of unstructured text documents using NLTK and scikit-learn
+  ** developed a metric to measure the coherence and typicality of the generated topics using a score called topic coherence calculated for each topic through a formula
+  * Actualized a two-mode network model that showed the relevance of major issues and stakeholders, using the degree centrality for the assessment, to prioritize the stakeholder-associated issues and explore the criticalness of those issues in the project duration from the perspectives of stakeholders
   """
   
 +++
