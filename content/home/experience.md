@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Assistant"
   company = "Nanyang Technological University (Supervisor: Prof. Ping Shum)"
-  company_url = "https://ntu.edu.sg"
+  company_url = "https://www.ntu.edu.sg"
   location = "Singapore"
   date_start = "2019-05-31"
   date_end = "2019-07-31"
@@ -32,14 +32,14 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Student Assistant"
   company = "PolyU (Supervisor: Prof. Qiping Shen)"
-  company_url = "www.polyu.edu.hk"
+  company_url = "https://www.polyu.edu.hk"
   location = "Hong Kong"
   date_start = "2019-03-31"
   date_end = "2019-05-31"
   description = """ 
-  * Implemented part of a Topic Over Time model for the detection of major issues, including: 
-  ** preprocessed text data and extracted features in large quantities of unstructured text documents using NLTK and scikit-learn
-  ** developed a metric to measure the coherence and typicality of the generated topics using a score called topic coherence calculated for each topic through a formula
+  * Implemented part of a Topic Over Time model for the detection of major issues, including: \n
+  1) preprocessed text data and extracted features in large quantities of unstructured text documents using NLTK and scikit-learn; \n
+  2) developed a metric to measure the coherence and typicality of the generated topics using a score called topic coherence calculated for each topic through a formula
   * Actualized a two-mode network model that showed the relevance of major issues and stakeholders, using the degree centrality for the assessment, to prioritize the stakeholder-associated issues and explore the criticalness of those issues in the project duration from the perspectives of stakeholders
   """
   
