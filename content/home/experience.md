@@ -38,8 +38,8 @@ date_format = "Jan 2006"
   date_end = "2019-05-31"
   description = """ 
   * Implemented part of a Topic Over Time model for the detection of major issues, including: \n
-  1) preprocessed text data and extracted features in large quantities of unstructured text documents using NLTK and scikit-learn; \n
-  2) developed a metric to measure the coherence and typicality of the generated topics using a score called topic coherence calculated for each topic through a formula
+  i) preprocessed text data and extracted features in large quantities of unstructured text documents using NLTK and scikit-learn; \n
+  ii) developed a metric to measure the coherence and typicality of the generated topics using a score called topic coherence calculated for each topic through a formula
   * Actualized a two-mode network model that showed the relevance of major issues and stakeholders, using the degree centrality for the assessment, to prioritize the stakeholder-associated issues and explore the criticalness of those issues in the project duration from the perspectives of stakeholders
   """
   
