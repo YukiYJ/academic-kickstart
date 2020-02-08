@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-05-31"
   date_end = "2019-07-31"
   description = """
-  * Implemented a GAN model with a style-based generator in order to generate high-resolution images of human faces 
+  * Implemented a GAN model with a style-based generator to generate high-resolution images of human faces 
   * Developed a puzzle game application based on the generated images and tested the application in both Windows and Android systems 
   """
 
