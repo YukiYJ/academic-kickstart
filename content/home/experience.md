@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   date_start = "2019-05-31"
   date_end = "2019-07-31"
   description = """
-  * Developed part of the admin site of the software application product Hoo Wallet, a digital assets trading platform, supporting both Android and iOS on a team basis
-  * Developed a puzzle game application based on the generated images and tested the application in both Windows and Android systems
+  * Implemented a GAN model with a style-based generator in order to generate high-resolution images of human faces 
+  * Developed a puzzle game application based on the generated images and tested the application in both Windows and Android systems 
   """
 
 [[experience]]
@@ -65,6 +65,6 @@ date_format = "Jan 2006"
   date_end = "2019-09-01"
   description = """ 
   * Build the team in order to provide a platform for badminton lovers to play badminton and improve skills
-  * Responsible for managing internal affairs of the team, including recruiting and managing team members and managers (over 100 people), organizing weekly training, planning activities, holding competitions, etc. 
+  * Responsible for managing affairs of the team, including recruiting and managing team members and managers (over 100 people), organizing weekly training, planning activities, holding competitions, etc. 
   """
 +++
