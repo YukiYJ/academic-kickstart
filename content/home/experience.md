@@ -55,4 +55,16 @@ date_format = "Jan 2006"
   * Created an attendance checking website for the company’s personnel with another colleague
   * Got familiar with the server-side development procedures and cultivated my creative problem-solving, teamwork and multitasking skills
   """
+  
+[[experience]]
+  title = "Founder & Captain"
+  company = "PolyU Chinese Mainland Students’ Association - Badminton Team"
+  company_url = "http://hkpucmsa.com/website/"
+  location = "Hong Kong"
+  date_start = "2018-09-01"
+  date_end = "2019-09-01"
+  description = """ 
+  * Build the team in order to provide a platform for badminton lovers to play badminton and improve skills
+  * Responsible for managing internal affairs of the team, including recruiting and managing team members and managers (over 100 people), organizing weekly training, planning activities, holding competitions, etc. 
+  """
 +++
