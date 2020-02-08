@@ -22,7 +22,7 @@ bio: My research interests include data mining and machine learning.
 
 interests:
 - Artificial Intelligence, including Deep Learning & Text Mining
-- Software Engineering
+- Coding & Thinking
 - Badminton
 
 education:
@@ -64,4 +64,4 @@ email: "yuki.j.yu@connect.polyu.hk"
 # - Visitors
 ---
 
-Hello! I'm a final-year undergraduate learning at The Hong Kong Polytechnic University, majoring in Computing and minoring in Applied Mathematics. My research interests include Text Mining and Machine Learning. Now I am conducting my capstone project, "Performance Evaluation using Artificial Intelligence", under the supervision of Dr. Yan Liu.
+Hello! I'm a final-year undergraduate studying at the Department of Computing, The Hong Kong Polytechnic University. My major is Computing, and I also minor in Applied Mathematics. My research interests include Text Mining and Deep Learning. I hope to combine Software Engineering with Artificial Intelligence technology, so as to produce meaningful software applications. Now I am conducting my capstone project, "Performance Evaluation using Artificial Intelligence", under the supervision of Dr. Yan Liu.
