@@ -18,7 +18,7 @@ organizations:
   url: "https://www.polyu.edu.hk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include data mining and machine learning.
+bio: My research interests include Deep Learning and Text Mining.
 
 interests:
 - Artificial Intelligence, including Deep Learning & Text Mining
