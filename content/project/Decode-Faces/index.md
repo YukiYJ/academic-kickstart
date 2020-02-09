@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Decode Faces"
-summary: "A research project of generating high-resolution face images by Generative Adversarial Networks (GANs) and developing an interesting game application based on the generated images."
+summary: "A research project of generating high-resolution face images by Generative Adversarial Networks (GANs) and developing an interesting game application, "DecodeFaces", based on the generated images."
 authors: []
 tags: ["Machine Learning", "GAN", "Python"]
 categories: []
