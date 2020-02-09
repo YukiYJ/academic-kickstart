@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Explore HK"
-summary: "A course project of tourism website development done with HTML, CSS, PHP, JavaScript, Ajax, JQuery, and MySQL. The platform ExploreHK provides convenience for both intended tourists (travel information & personalized travel plan) and administrators (manage users and data & obtain summary information)."
+title: "Tourism Platform Development"
+summary: "A course project of website development done with HTML, CSS, PHP, JavaScript, Ajax, JQuery, and MySQL. The tourism platform "ExploreHK" provides convenience for both intended tourists (travel information & personalized travel plan) and administrators (manage users and data & obtain summary information)."
 authors: []
 tags: ["Database Systems", "Web Development", "MySQL", "PHP", "HTML"]
 categories: []

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Flows Prediction"
-summary: "A course project of designing and testing a model that applies last inﬂows/outﬂows of a grid to accurately predict the ﬂows in next timeslot."
+summary: "A course project of designing and testing a CNN model that applies last inﬂows/outﬂows of a grid to accurately predict the ﬂows in next timeslot."
 authors: []
 tags: ["Machine Learning", "CNN", "Python"]
 categories: []
