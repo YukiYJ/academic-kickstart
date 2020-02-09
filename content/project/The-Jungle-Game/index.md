@@ -6,7 +6,7 @@ summary: ""
 authors: []
 tags: ["Object-Oriented Programming", "Java"]
 categories: []
-date: 2020-02-09T14:47:10+08:00
+date: 2018-12-12T14:47:10+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -27,9 +27,9 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
-url_pdf: ""
-url_slides: ""
+url_code: "https://github.com/YukiYJ/OOP-Project"
+url_pdf: "files/project/The-Jungle-Game/Group8_Report"
+url_slides: "files/project/The-Jungle-Game/Group8_DemoPPT"
 url_video: ""
 
 # Slides (optional).

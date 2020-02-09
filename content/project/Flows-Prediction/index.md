@@ -6,7 +6,7 @@ summary: ""
 authors: []
 tags: ["Machine Learning", "CNN", "Python"]
 categories: []
-date: 2020-02-09T14:43:17+08:00
+date: 2019-04-28T14:43:17+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/YukiYJ/Big-Data-Analytics_Flows-Prediction"

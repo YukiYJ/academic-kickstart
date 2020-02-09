@@ -6,7 +6,7 @@ summary: "A project of applying Operating Systems theory of process scheduling t
 authors: []
 tags: ["Operating Systems", "C Language"]
 categories: []
-date: 2020-02-09T14:49:41+08:00
+date: 2019-04-10T14:49:41+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/YukiYJ/OS-Project"
