@@ -2,15 +2,15 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Don't Overfit! II"
-summary: "This is a competition on Kaggle and we finally ranked NO. 57 regarding the Private Score (0.856). This project aims to give accurate predictions on unseen data (250 training samples with 20,000 rows of continuous variable). 
-A necessary step in the building of models is to ensure we do not overfit the training data and make sub optimal predictions on new data."
+summary: "A Kaggle competition aiming to build models is to ensure not to overfit 250 training samples and make accurate predictions on new data. Rank: No. 57 (regarding Private Score 0.856)."
+
 authors: []
 tags: ["Machine Learning", "Python"]
 categories: []
 date: 2019-11-28T14:50:46+08:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/YukiYJ/Don't-Overfit"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -18,7 +18,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

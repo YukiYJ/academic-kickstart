@@ -4,7 +4,7 @@
 title: "Flows Prediction"
 summary: ""
 authors: []
-tags: ["Machine Learning", "CNN"]
+tags: ["Machine Learning", "CNN", "Python"]
 categories: []
 date: 2020-02-09T14:43:17+08:00
 
