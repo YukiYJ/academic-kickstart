@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Task Scheduling Sytsem"
-summary: ""
+title: "Task Scheduling System"
+summary: "This project aims to apply the theory of process scheduling we've learnt from COMP2432 (Operating Systems) to a daily-life scenario and to implement a scheduler that schedules students activities, which is analogous to an OS’s scheduling task, and produces a timetable. "
 authors: []
 tags: ["Operating Systems", "C Language"]
 categories: []
