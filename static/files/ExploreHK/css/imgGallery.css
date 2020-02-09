@@ -1,0 +1,61 @@
+/* Clear floats after a row */
+.row {
+	display: block;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Two column in a row */
+.column {
+    float: left;
+    width: 40%;
+    padding: 5px 15px 0px 10px;
+}
+
+/* images style inside the grid */
+.column img {
+	border-radius: 10px;
+	width:320px;
+	height:200px;
+    opacity: 1; 
+    cursor: pointer;
+}
+
+/* show text on image when hovering */
+
+
+.column img:hover {
+    opacity: 0.8; 
+	color: #fff; 
+}
+
+.text {
+	position: relative;
+    top: -40px;
+    left: 20px;
+	font-weight: bolder;
+}
+
+.button{
+    margin-top: -20px;
+	margin-bottom: 30px;
+	float: right;
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+}
+
+/* card deck */
+
+.card-deck .column{
+    width: 45%;
+    padding: 5px 20px 0px 10px;
+}
+
+

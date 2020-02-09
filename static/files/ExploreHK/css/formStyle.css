@@ -1,0 +1,46 @@
+.form_container{
+	position: relative;
+	line-height: 200%;
+    top: 100px;
+    width: 550px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px 120px 140px 80px;
+	text-align: center;
+}
+
+.error {
+	display:none;
+	font-family:Verdana, Geneva, sans-serif;
+    padding: 0px 20px;
+	margin: 8px 0;
+    border: 1px solid #ccc;
+	border-radius: 4px;    
+	box-sizing: border-box;
+	border-color: #8b0000;    
+	background-color:#FA8072;
+}
+
+.form_input {
+    border: 2px solid #f0f0f0;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px 2px #f0f0f0;
+	padding: 40px 50px;
+}
+
+.form_input ul li{
+    list-style: none;
+}
+
+.form_input li{
+    line-height: 44px;
+    width: auto;
+    overflow: hidden; 
+}
+.form_input li label{ 
+    width: 100px; 
+    height: 50px; 
+    float: left; 
+    line-height: 60px; 
+    text-align: right;
+}

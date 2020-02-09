@@ -9,7 +9,7 @@ categories: []
 date: 2018-12-05T14:47:39+08:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "files/ExploreHK/index.php"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/YukiYJ/Tourism-website"
 url_pdf: ""
 url_slides: ""
 url_video: ""
