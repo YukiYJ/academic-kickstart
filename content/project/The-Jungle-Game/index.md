@@ -2,14 +2,14 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The Jungle Game"
-summary: ""
+summary: "A course project of designing and implementing a traditional Chinese board game, the Jungle Game, to be played in the command line console, based on which GUI mode has been developed then."
 authors: []
 tags: ["Object-Oriented Programming", "Java"]
 categories: []
 date: 2018-12-12T14:47:10+08:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/YukiYJ/OOP-Project"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

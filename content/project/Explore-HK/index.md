@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Explore HK"
-summary: ""
+summary: "A course project of tourism website development done with HTML, CSS, PHP, JavaScript, Ajax, JQuery, and MySQL. The platform ExploreHK provides convenience for both intended tourists (travel information & personalized travel plan) and administrators (manage users and data & obtain summary information)."
 authors: []
-tags: ["Database Systems", "Web Development", "MySQL", "PHP"]
+tags: ["Database Systems", "Web Development", "MySQL", "PHP", "HTML"]
 categories: []
 date: 2018-12-05T14:47:39+08:00
 
@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/YukiYJ/Tourism-website"
-url_pdf: ""
+url_pdf: "files/Explore-HK/Report.pdf"
 url_slides: ""
 url_video: ""
 
