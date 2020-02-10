@@ -2,8 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Don't Overfit! II"
-summary: "A Kaggle competition of making accurate predictions on new data by building models with 250 training samples to ensure not to overfit. 
-\n Leaderboard Ranking: #57 (Private Score 0.856)."
+summary: "A Kaggle competition of making accurate predictions on new data by building models with 250 training samples to ensure not to overfit.\nLeaderboard Ranking: #57 (Private Score 0.856)."
 
 authors: []
 tags: ["Machine Learning", "Python"]

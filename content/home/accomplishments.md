@@ -60,7 +60,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Department of Computing, PolyU"
   organization_url = "https://www.cma.org.hk/"
-  title = "Computing Solved It! Inception 2017 – Grand Award, Most Dare-To-Think Award, Best Demonstration Award, Best Theme Award"
+  title = "Computing Solved It! Inception 2017:\nGrand Award, Most Dare-To-Think Award, Best Demonstration Award, Best Theme Award"
   url = "http://www4.comp.polyu.edu.hk/~csi_inception/"
 #  certificate_url = "files/CSI! Awards.pdf"
   date_start = "2017-03-30"
