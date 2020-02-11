@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/YukiYJ/Tourism-website"
-url_pdf: "files/Explore-HK/Report.pdf"
+url_pdf: "files/ExploreHK/Report.pdf"
 url_slides: ""
 url_video: ""
 
