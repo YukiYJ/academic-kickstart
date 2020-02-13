@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The Jungle Game"
-summary: "A course project of designing and implementing a traditional Chinese board game, the Jungle Game, to be played in the command line console, based on which GUI mode has been developed then."
+summary: "A course project of designing and implementing a traditional Chinese board game, the Jungle Game, to be played in the command line console, based on which GUI mode has been developed then.\nProgramming Language: Java"
 authors: []
 tags: ["Object-Oriented Programming", "Java"]
 categories: []

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Task Scheduling System"
-summary: "A course project of applying Operating Systems theory of process scheduling to a daily-life scenario and implement a system to schedule tasks and produce timetables. "
+summary: "A course project of applying Operating Systems theory of process scheduling to a daily-life scenario and implement a system to schedule tasks and produce timetables.\nProgramming Language: C Language"
 authors: []
 tags: ["Operating Systems", "C Language"]
 categories: []
