@@ -28,8 +28,8 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/YukiYJ/OS-Project"
-url_pdf: ""
-url_slides: ""
+url_pdf: "files/project/Task-Scheduling-System/COMP2432_group1_Report.pdf"
+url_slides: "files/project/Task-Scheduling-System/COMP2432_group1_DemoPPT.pdf"
 url_video: ""
 
 # Slides (optional).

@@ -29,9 +29,10 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/YukiYJ/don-t-overfit"
-url_pdf: ""
-url_slides: ""
-url_video: "https://drive.google.com/open?id=1hCGrTlzqshpwRin0Wa7zwIdDLLqUW4el"
+url_pdf: "files/project/Don't-Overfit/Report_Group21.pdf"
+url_slides: "files/project/Don't-Overfit/PPT_Group21.pdf"
+#url_video: "https://drive.google.com/open?id=1hCGrTlzqshpwRin0Wa7zwIdDLLqUW4el"
+url_video: "files/project/Don't-Overfit/pres.mp4"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
