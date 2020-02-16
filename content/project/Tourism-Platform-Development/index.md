@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/YukiYJ/Tourism-website"
-url_pdf: "files/Report.pdf"
+url_pdf: "Report.pdf"
 url_slides: ""
 url_video: ""
 
