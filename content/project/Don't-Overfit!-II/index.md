@@ -10,7 +10,7 @@ categories: []
 date: 2019-11-28T14:50:46+08:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/YukiYJ/Don't-Overfit"
+external_link: "https://github.com/YukiYJ/don-t-overfit"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
