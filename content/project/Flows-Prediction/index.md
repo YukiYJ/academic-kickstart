@@ -29,7 +29,7 @@ image:
 
 url_code: "https://github.com/YukiYJ/Big-Data-Analytics_Flows-Prediction"
 url_pdf: "files/project/Flows-Prediction/COMP4434_group3_Report.pdf"
-url_slides: "files/project/Flows-Prediction/COMP4434_group3_Presentation.pdf"
+url_slides: "files/project/Flows-Prediction/COMP4434_group3_PresentationPPT.pdf"
 url_video: ""
 
 # Slides (optional).
