@@ -28,8 +28,8 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/YukiYJ/OOP-Project"
-url_pdf: "files/project/The-Jungle-Game/Group8_Report.pdf"
-url_slides: "files/project/The-Jungle-Game/Group8_DemoPPT.pdf"
+url_pdf: ""
+url_slides: ""
 url_video: ""
 
 # Slides (optional).

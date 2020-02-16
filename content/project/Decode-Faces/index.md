@@ -29,7 +29,7 @@ image:
 
 url_code: "https://github.com/YukiYJ/DecodeFace"
 url_pdf: ""
-url_slides: "files/project/Decode-Faces/ProjectProgressPresentation.pdf"
+url_slides: ""
 url_video: ""
 
 # Slides (optional).
