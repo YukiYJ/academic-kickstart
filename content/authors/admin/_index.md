@@ -21,7 +21,8 @@ organizations:
 bio: My research interests include Deep Learning and Text Mining.
 
 interests:
-- Artificial Intelligence, including Deep Learning & Text Mining
+- Artificial Intelligence
+- Software Development
 - Coding & Thinking
 - Badminton
 
